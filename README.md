@@ -20,14 +20,17 @@ Addition to core concepts of java,  classes from swing package are implemented t
 
 **Images:**
 
-<img width="667" alt="TicTacToe1" src="C:\Users\91852\Pictures\Screenshots\Screenshot (6).png">
-<img width="385" alt="TicTacToe2" src="C:\Users\91852\Pictures\Screenshots\Screenshot (7).png">
-<img width="218" alt="TicTacToe3" src="C:\Users\91852\Pictures\Screenshots\Screenshot (8).png">
-<img width="218" alt="TicTacToe3" src="C:\Users\91852\Pictures\Screenshots\Screenshot (9).png">
+
+<img width = "667" alt = "FileBrowser1" src="https://user-images.githubusercontent.com/95494766/188073448-8df323b5-828b-4e18-ac80-4b5c16a2dad1.png">
+<img width = "667" alt = "FileBrowser2"  src="https://user-images.githubusercontent.com/95494766/188073686-48efc1fa-44c3-4652-8ec4-24d24e260286.png">
+<img width = "667" alt = "FileBrowser3" src="https://user-images.githubusercontent.com/95494766/188073920-c0f899e4-39ff-482e-a853-759eb5ba6097.png">
+<img width = "667" alt = "FileBrowser4" src="https://user-images.githubusercontent.com/95494766/188074045-1717bc39-8175-4631-9cdd-58306026a689.png">
 
 
 
-**API'S:**:
+
+
+**API'S**:
 No API's are used.
 
 **Frameworks:**
